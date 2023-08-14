@@ -1,6 +1,6 @@
 # Aidkit: First Aid Mobile Application
 
-![Aidkit App Screenshot]('../assets/imgs/Screenshot.jpg')
+![Aidkit App Screenshot]('../assets/imgs/Screenshot.png')
 
 Aidkit is a First Aid mobile application solution designed to promote awareness about first aid knowledge among the ALU community.
 
